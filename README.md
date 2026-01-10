@@ -1,4 +1,4 @@
-![banner](./assets/banner.png)
+![banner](./assets/banner_v2.png)
 
 # Mustafa
 
