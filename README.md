@@ -8,20 +8,23 @@
 ```
 
 ```
-> whoami
+$ whoami
 MUSTIHAFT
 
-> status
-Learning languages. Building small tools. Breaking and fixing things.
+$ status
+learning languages
+building tools
+breaking systems (ethically)
 
-> focus
-systems | security | automation | web
+$ focus
+[ systems | security | automation | web ]
 
-> stack
-JavaScript | TypeScript | Python | Git | Linux
+$ stack
+js · ts · python · git · linux
 
-> contact
-github: https://github.com/Mustihaft2006
+$ contact
+github://Mustihaft2006
+
 ```
 
 ---
