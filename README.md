@@ -1,4 +1,6 @@
-# Mustihaft
+![banner](./assets/banner.png)
+
+# Mustafa
 
 > Curious about languages, obsessed with tech, and always poking at the edges.
 
@@ -13,7 +15,7 @@
 `JavaScript` `TypeScript` `Python` `Git` `Linux` `VS Code`
 
 ## Featured
-- Nothing pinned yet — first real build drops here soon.
+- Nothing pinned yet - first real build drops here soon.
 
 ## Now
 - Learning new languages
