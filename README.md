@@ -23,7 +23,7 @@ $ stack
 js · ts · python · git · linux
 
 $ contact
-github://Mustihaft2006
+github://Mustihaft
 
 ```
 
@@ -49,5 +49,5 @@ javascript  typescript  python  git  linux  vscode
 [ ] publish a clean build log
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=Mustihaft2006&label=views&color=0e1117)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustihaft2006&show_icons=true&hide_title=true&theme=tokyonight)
+![Profile views](https://komarev.com/ghpvc/?username=Mustihaft&label=views&color=0e1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustihaft&show_icons=true&hide_title=true&theme=tokyonight)
