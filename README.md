@@ -50,4 +50,3 @@ javascript  typescript  python  git  linux  vscode
 ```
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mustihaft&label=views&color=0e1117)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mustihaft&show_icons=true&hide_title=true&theme=tokyonight)
