@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="assets/banner_v2.png" alt="Mustihaft: languages, tech, curiosity" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/negi-banner-dark.webp">
+  <img src="assets/negi-banner-light.webp" alt="Mustihaft: desktop software, tools and security" width="100%">
+</picture>
 
 I build desktop software, developer tools and automation, with a strong interest in security.
 My main project right now is **Negi**.
@@ -10,6 +11,8 @@ My main project right now is **Negi**.
 A Windows app for making AI video on your own PC. A language model drafts the script and
 scenes, an open video model renders each scene on the graphics card, and a multi-track editor
 cuts everything together.
+
+<a href="https://mustihaft.github.io/negi/"><img src="assets/negi-editor.webp" alt="The Negi editor: media library, program monitor and a multi-track timeline" width="100%"></a>
 
 - Electron, React and TypeScript, with FFmpeg for import checks and export
 - Local models through ComfyUI (Wan 2.1) and Ollama; generation tested on an RTX 3060 Ti
