@@ -12,7 +12,7 @@ A Windows app for making AI video on your own PC. A language model drafts the sc
 scenes, an open video model renders each scene on the graphics card, and a multi-track editor
 cuts everything together.
 
-<a href="https://mustihaft.github.io/negi/"><img src="assets/negi-editor.webp" alt="The Negi editor: media library, program monitor and a multi-track timeline" width="100%"></a>
+<a href="https://mustihaft.github.io/negi/"><img src="assets/negi-editor-2.webp" alt="The Negi editor: media library, program monitor and a multi-track timeline" width="100%"></a>
 
 - Electron, React and TypeScript, with FFmpeg for import checks and export
 - Local models through ComfyUI (Wan 2.1) and Ollama; generation tested on an RTX 3060 Ti
